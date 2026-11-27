@@ -99,21 +99,11 @@ Beyond our flagship SaaS platforms, our engineering & creative teams partner dir
 
 ### Dual-Domain Ecosystem Architecture
 
-```mermaid
-flowchart LR
-    CORE["The SCI SolCielo Innovacion Pvt. Ltd.<br/>Ranchi, India · Est. 2019"]
-    CORE --> SAAS["SaaS Platforms Wing<br/>thesci.co"]
-    CORE --> AGENCY["Engineering & Growth Wing<br/>thesci.co.in"]
-
-    SAAS --> OS["TheSCI OS<br/>~15MB Go Server Panel"]
-    SAAS --> COACH["TheSCI Coach<br/>0%-Cut ERP & 304K CBT"]
-    SAAS --> DEPLOY["TheSCI Deploymate<br/>Zero-SSH GitOps PaaS"]
-    SAAS --> SOCIAL["TheSCI Social<br/>AI Publishing & Growth"]
-
-    AGENCY --> WEB["Custom Web & Mobile Apps"]
-    AGENCY --> GROWTH["28 Modular Growth Packs"]
-    AGENCY --> CLOUD["Cloud & DevOps Consulting"]
-```
+<p align="center">
+  <a href="https://thesci.co">
+    <img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/ecosystem-architecture.svg?v=1" alt="TheSCI Dual-Domain Ecosystem Architecture — thesci.co SaaS Platforms and thesci.co.in Engineering & Growth Studio" width="100%" />
+  </a>
+</p>
 
 ---
 
