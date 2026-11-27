@@ -28,8 +28,8 @@
 
 We build **bare-metal-fast, sovereign software platforms** that dismantle bloated per-seat SaaS taxes and 15% EdTech aggregator commissions — operating across two specialized digital wings:
 
-- **🚀 Product Platforms Wing — [`https://thesci.co`](https://thesci.co):** Four production-ready SaaS & self-hosted systems engineered in Go, TypeScript, Next.js, and PostgreSQL.
-- **🛠️ Client Engineering & Digital Growth Wing — [`https://thesci.co.in`](https://thesci.co.in):** Full-stack custom websites, Android/iOS mobile apps, enterprise software, cloud/DevOps migrations, and 28 plain-English digital marketing growth modules.
+- <img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/saas.svg" width="18" height="18" align="absmiddle" alt="" /> **Product Platforms Wing — [`https://thesci.co`](https://thesci.co):** Four production-ready SaaS & self-hosted systems engineered in Go, TypeScript, Next.js, and PostgreSQL.
+- <img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/agency.svg" width="18" height="18" align="absmiddle" alt="" /> **Client Engineering & Digital Growth Wing — [`https://thesci.co.in`](https://thesci.co.in):** Full-stack custom websites, Android/iOS mobile apps, enterprise software, cloud/DevOps migrations, and 28 plain-English digital marketing growth modules.
 
 ---
 
@@ -38,7 +38,7 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ 01. TheSCI OS</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/os.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;01. TheSCI OS</h3>
       <p><strong>Compiled Cloud Server Operating System</strong><br/>
       <a href="https://thesci.co/platform"><code>thesci.co/platform</code></a> · <em>Replaces cPanel, Plesk, CyberPanel</em></p>
       <ul>
@@ -48,7 +48,7 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 02. TheSCI Coach</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/coach.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;02. TheSCI Coach</h3>
       <p><strong>White-Label Coaching ERP &amp; 304K+ CBT Exam Studio</strong><br/>
       <a href="https://coach.thesci.co"><code>coach.thesci.co</code></a> · <em>Replaces Classplus, Teachmint, Graphy</em></p>
       <ul>
@@ -60,7 +60,7 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 03. TheSCI Deploymate</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/deploymate.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;03. TheSCI Deploymate</h3>
       <p><strong>Zero-SSH Self-Hosted GitOps PaaS</strong><br/>
       <a href="https://deploy.thesci.co"><code>deploy.thesci.co</code></a> · <em>Replaces Vercel, Heroku, Render</em></p>
       <ul>
@@ -70,7 +70,7 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ 04. TheSCI Social</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/social.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;04. TheSCI Social</h3>
       <p><strong>Omnichannel AI Social &amp; Digital Growth Hub</strong><br/>
       <a href="https://social.thesci.co"><code>social.thesci.co</code></a> · <em>Replaces Hootsuite, Buffer, Sprout Social</em></p>
       <ul>
