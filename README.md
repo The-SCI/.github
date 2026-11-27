@@ -5,7 +5,8 @@ This repository holds the organization-wide GitHub profile and community health 
 ## Repository Contents
 
 - [`profile/README.md`](./profile/README.md) — Public organization profile displayed at [github.com/The-SCI](https://github.com/The-SCI)
-- [`assets/hero-banner.svg`](./assets/hero-banner.svg) — Official dark/light-compatible SVG header banner
+- [`assets/hero-banner.svg`](./assets/hero-banner.svg) — Code-generated animated SVG hero banner (CSS `@keyframes` + SMIL, zero scripts)
+- [`scripts/generate-hero-banner.mjs`](./scripts/generate-hero-banner.mjs) — Procedural generator script (`node scripts/generate-hero-banner.mjs`)
 - [`SECURITY.md`](./SECURITY.md) — Organization-wide security disclosure policy (`support@thesci.co.in`)
 - [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) — Organization-wide community code of conduct
 

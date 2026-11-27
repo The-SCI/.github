@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://thesci.co">
-    <img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/hero-banner.svg" alt="The SCI SolCielo Innovacion Private Limited — Autonomous Software Platforms & Digital Engineering" width="100%" />
+    <img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/hero-banner.svg?v=2" alt="The SCI SolCielo Innovacion Private Limited — Autonomous Software Platforms & Digital Engineering" width="100%" />
   </a>
 </p>
 
