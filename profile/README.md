@@ -38,9 +38,9 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/os.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;01. TheSCI OS</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/os.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;<a href="https://github.com/The-SCI/thesci-os">01. TheSCI OS</a></h3>
       <p><strong>Compiled Cloud Server Operating System</strong><br/>
-      <a href="https://thesci.co/platform"><code>thesci.co/platform</code></a> · <em>Replaces cPanel, Plesk, CyberPanel</em></p>
+      <a href="https://thesci.co/platform"><code>thesci.co/platform</code></a> · <a href="https://github.com/The-SCI/thesci-os">Docs &amp; Roadmap Hub</a> · <em>Replaces cPanel, Plesk, CyberPanel</em></p>
       <ul>
         <li>Single compiled <strong>Go + Fiber v2</strong> binary idling at <strong>~15MB RAM</strong></li>
         <li>Unifies <strong>Caddy 2 HTTP/3</strong> (auto-SSL), <strong>PowerDNS SQL</strong>, <strong>Postfix/Dovecot</strong> mail &amp; <strong>MariaDB</strong></li>
@@ -48,9 +48,9 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/coach.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;02. TheSCI Coach</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/coach.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;<a href="https://github.com/The-SCI/thesci-coach">02. TheSCI Coach</a></h3>
       <p><strong>White-Label Coaching ERP &amp; 304K+ CBT Exam Studio</strong><br/>
-      <a href="https://coach.thesci.co"><code>coach.thesci.co</code></a> · <em>Replaces Classplus, Teachmint, Graphy</em></p>
+      <a href="https://coach.thesci.co"><code>coach.thesci.co</code></a> · <a href="https://github.com/The-SCI/thesci-coach">Docs &amp; Roadmap Hub</a> · <em>Replaces Classplus, Teachmint, Graphy</em></p>
       <ul>
         <li><strong>0% fee commission</strong> — institutes keep 100% of student tuition revenue</li>
         <li><strong>304,000+ curated questions</strong> &amp; Live NTA-pattern CBT simulator (JEE, NEET, UPSC, Boards)</li>
@@ -60,9 +60,9 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/deploymate.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;03. TheSCI Deploymate</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/deploymate.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;<a href="https://github.com/The-SCI/thesci-deploymate">03. TheSCI Deploymate</a></h3>
       <p><strong>Zero-SSH Self-Hosted GitOps PaaS</strong><br/>
-      <a href="https://deploy.thesci.co"><code>deploy.thesci.co</code></a> · <em>Replaces Vercel, Heroku, Render</em></p>
+      <a href="https://deploy.thesci.co"><code>deploy.thesci.co</code></a> · <a href="https://github.com/The-SCI/thesci-deploymate">Docs &amp; Roadmap Hub</a> · <em>Replaces Vercel, Heroku, Render</em></p>
       <ul>
         <li>Push-to-deploy GitOps CI/CD directly on your own VPS or bare-metal servers</li>
         <li>Automated preview environments, zero-downtime rollouts &amp; instant rollbacks</li>
@@ -70,9 +70,9 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/social.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;04. TheSCI Social</h3>
+      <h3><img src="https://raw.githubusercontent.com/The-SCI/.github/main/assets/icons/social.svg" width="22" height="22" align="absmiddle" alt="" /> &nbsp;<a href="https://github.com/The-SCI/thesci-social">04. TheSCI Social</a></h3>
       <p><strong>Omnichannel AI Social &amp; Digital Growth Hub</strong><br/>
-      <a href="https://social.thesci.co"><code>social.thesci.co</code></a> · <em>Replaces Hootsuite, Buffer, Sprout Social</em></p>
+      <a href="https://social.thesci.co"><code>social.thesci.co</code></a> · <a href="https://github.com/The-SCI/thesci-social">Docs &amp; Roadmap Hub</a> · <em>Replaces Hootsuite, Buffer, Sprout Social</em></p>
       <ul>
         <li>Multi-platform scheduling, AI-assisted content pipelines &amp; unified analytics</li>
         <li>Powers our <strong>28 Plug-and-Play Growth Modules</strong> for coaching centres &amp; SMBs</li>
@@ -84,7 +84,7 @@ We build **bare-metal-fast, sovereign software platforms** that dismantle bloate
 
 ---
 
-### Custom Engineering & Digital Growth Studio ([`thesci.co.in`](https://thesci.co.in))
+### Custom Engineering & Digital Growth Studio ([`thesci.co.in`](https://thesci.co.in) · [Service Hub Repo](https://github.com/The-SCI/services))
 
 Beyond our flagship SaaS platforms, our engineering & creative teams partner directly with founders, coaching institutes, clinics, and enterprises across **Jharkhand, Bihar, Odisha, Uttar Pradesh, West Bengal, and globally**:
 
